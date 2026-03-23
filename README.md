@@ -6,7 +6,7 @@ Este repositorio contiene el código de la serie de YouTube donde aprendemos pro
 
 ## 📺 Video 01: Tu primer programa en Python
 
-[![Ver en YouTube](https://img.shields.io/badge/YouTube-Ver%20Video-red?logo=youtube&logoColor=white)]https://www.youtube.com/watch?v=PIiWpfK04fU)
+[![Ver en YouTube](https://img.shields.io/badge/YouTube-Ver%20Video-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=PIiWpfK04fU)
 
 En este video aprenderás:
 
