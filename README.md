@@ -6,6 +6,8 @@ Este repositorio contiene el código de la serie de YouTube donde aprendemos pro
 
 ## 📺 Video 01: Tu primer programa en Python
 
+[![Ver en YouTube](https://img.shields.io/badge/YouTube-Ver%20Video-red?logo=youtube&logoColor=white)](LINK_DEL_VIDEO)
+
 En este video aprenderás:
 
 - Mostrar mensajes con `print`
